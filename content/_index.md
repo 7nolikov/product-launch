@@ -1,6 +1,6 @@
 ---
 title: 'Home'
-date: 2023-10-24
+date: 2025-05-10
 type: landing
 
 design:
@@ -10,10 +10,10 @@ design:
 sections:
   - block: hero
     content:
-      title: Build Your Landing Pages with Hugo Blox
-      text: 🧱 EASY. FREE (OPEN SOURCE). NO-CODE  🧱
+      title: Participate in the future product launch
+      text: For free, no credit card required
       primary_action:
-        text: Get Started
+        text: Join waitlist
         url: https://hugoblox.com/templates/
         icon: rocket-launch
       secondary_action:
@@ -23,7 +23,7 @@ sections:
         text: "Announcing the release of version 1."
         link:
           text: "Read more"
-          url: "/blog/"
+          url: "https://7nolikov.dev/product-launch/blog/"
     design:
       spacing:
         padding: [0, 0, 0, 0]
