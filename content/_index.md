@@ -131,7 +131,9 @@ sections:
     content:
       title: Join the Waitlist!
       text: |
-        {{< gdocs src="https://docs.google.com/forms/d/e/1FAIpQLSfAQ1X2gKOTDw6ZllPw6SY3EHK6-HZCK6jGVc5EfEQ_EuwB6w/viewform?embedded=true" >}}
+        {{< rawhtml >}}
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAQ1X2gKOTDw6ZllPw6SY3EHK6-HZCK6jGVc5EfEQ_EuwB6w/viewform?embedded=true" width="640" height="451" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        {{< /rawhtml >}}
     design:
       card:
         # Card background color (CSS class)
