@@ -132,7 +132,8 @@ sections:
       title: Join the Waitlist!
       text: |
         {{< rawhtml >}}
-        <iframe src="https://formfacade.com/include/110322534339449653294/form/1FAIpQLSfAQ1X2gKOTDw6ZllPw6SY3EHK6-HZCK6jGVc5EfEQ_EuwB6w/classic.js?div=ff-compose"">Loading…</iframe>
+        <div id="ff-compose"></div>
+        <script async defer src="https://formfacade.com/include/110322534339449653294/form/1FAIpQLSfAQ1X2gKOTDw6ZllPw6SY3EHK6-HZCK6jGVc5EfEQ_EuwB6w/classic.js?div=ff-compose"></script>
         {{< /rawhtml >}}
     design:
       card:
