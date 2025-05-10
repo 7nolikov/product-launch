@@ -129,11 +129,11 @@ sections:
         padding: ["6rem", 0, 0, 0]
   - block: cta-card
     content:
-      title: Build your future-proof website
-      text: {{< rawhtml >}} <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAQ1X2gKOTDw6ZllPw6SY3EHK6-HZCK6jGVc5EfEQ_EuwB6w/viewform?embedded=true" width="640" height="451" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe> {{< /rawhtml >}}
-      button:
-        text: Get Started
-        url: https://hugoblox.com/templates/
+      title: Join the Waitlist!
+      text: |
+        {{< rawhtml >}}
+        <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfAQ1X2gKOTDw6ZllPw6SY3EHK6-HZCK6jGVc5EfEQ_EuwB6w/viewform?embedded=true" width="640" height="451" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+        {{< /rawhtml >}}
     design:
       card:
         # Card background color (CSS class)
